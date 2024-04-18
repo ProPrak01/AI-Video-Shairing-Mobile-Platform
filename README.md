@@ -1,4 +1,4 @@
-# AI Video Sharing App
+# AI Video Sharing App (UNDER DEVELOPMENT)
 
 This is an AI Video Sharing App developed using React Native with Expo. The app allows users to upload, view, and share AI-generated videos easily on both Android and iOS devices.
 
